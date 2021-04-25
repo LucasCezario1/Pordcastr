@@ -1,5 +1,5 @@
 # Pordcastr 🎧 - Trilha React
-Atividade feita na semana NLW #3 usando React, next e sass
+Atividade feita na semana NLW #3 usando React, Next e Sass
 
 <b>Server(usando o json-server)</b>- yarn server <br>
 <b> yarn dev</b> - start no projeto  
